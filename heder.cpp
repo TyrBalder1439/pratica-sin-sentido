@@ -1,11 +1,10 @@
 #include "header.h"
-
+#define multiplicacion(a,b)
 
 using namespace std;
 
 int main (){
 	
-	cout<<"esto es una prueba del ordenador";
 	
 	return 0;
 }
